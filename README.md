@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building APIs, AI agents, and tools that integrate with external services using FastAPI and LLMs.<br>🤝 I’m looking to collaborate on projects related to AI applications, backend systems, or developer tools.<br>🌱 I’m currently learning LangChain, agent design, cloud integrations, and improving frontend skills with React/Next.js.<br>😸 Ask me about frontend and backend development, Python, FastAPI, APIs, and building LLM powered applications.<br>⚡Fun fact: I enjoy music, singing, and playing instruments in my free time.<br>
+🔭 I’m currently working on building APIs, AI agents, and tools that integrate with external services using FastAPI and LLMs.<br>🤝 I’m looking to collaborate on projects involving web development (frontend or backend), API and backend systems, and AI or LLM-powered applications.<br>🌱 I’m currently learning LangChain, agent design, cloud integrations, and improving frontend skills with React/Next.js.<br>😸 Ask me about frontend and backend development, Python, FastAPI, APIs, and building LLM powered applications.<br>⚡Fun fact: I enjoy music, singing, and playing instruments in my free time.<br>
 
 
 ## 🌐 Socials:
